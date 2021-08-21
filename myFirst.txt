@@ -1,0 +1,8 @@
+Hi thereHi there, I'm Mudit. Nice to meet ya.
+Ok so this is the third version of this file hope I have made some improvement.
+This is to check the reading ability of the program using fin.get() and eof().
+
+Hi there, Just wanna se if this data that I have hard coded drictely on the text file will get affected or not.
+Peace!
+Directly is incorrectlly spelled, Peace. 
+checking for the eof last character.
